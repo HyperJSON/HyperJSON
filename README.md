@@ -5,5 +5,5 @@
 
 ## Message Schemas
 
-- [Request](../HyperJSON-Request)
-- [Response](../HyerJSON-Response)
+- [Request](https://github.com/HyperJSON/HyperJSON-Request)
+- [Response](https://github.com/HyperJSON/HyperJSON-Response)
